@@ -1,7 +1,7 @@
 # vcf-parser
 A small vcf parser I made for an intership project.
 
-The parser aim is to read through a vcf file and create csv version of it with SNP, no NA containing lines, and only SNPs with exactly one mutation (0 or 1)
+The parser aim is to read through a vcf file and create csv version of it with only SNPs with exactly one mutation (0 or 1) and no NA.
 
 # Options
 
